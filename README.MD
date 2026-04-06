@@ -2,11 +2,13 @@
 
 Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks.
 
-This repository contains skills that I've created or found on the web to enhance the capabilities of various Agent Harnesses across a wide range of applications.
+This repository contains skills that I've created or found on the web to enhance the capabilities of various Agent Harnesses across a wide range of instructions.
 
-I use skills to improve code quality, customize workflows, automate tasks, take notes, or perform repetitive tasks in a structured manner.
+I use these skills to improve code quality, streamline workflows, automate tasks, take notes, systematically handle repetitive tasks, and much more.
 
-There are currently 5 skills available:
+---
+
+There are currently **5** skills available:
 
 1. [article-capturer](./article-capturer/SKILL.md): Converts pasted BibTeX entries into clean Markdown paper notes and appends them to a index note. It uses a deterministic converter script so output stays consistent with a defined note format.
 2. [es](./es/SKILL.md): Provides a practical workflow for using the Everything CLI on Windows to find files and folders instantly. It standardizes command flags for rich CSV output and supports advanced searches by extension, size, date, attributes, and path.
@@ -16,6 +18,6 @@ There are currently 5 skills available:
 
 ---
 
-Feel free to use them if you like! I’ll adjust these skills as needed to suit my requirements.
+I may add new skills or adjust/improve existing ones in the future, as needed.
 
-_All skills are released under the Unlicense. You are free to use them as you wish._
+_All skills are released under the Unlicense. You are free to use these as you wish and customize them to suit your needs._
