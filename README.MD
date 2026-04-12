@@ -10,7 +10,7 @@ I use these skills to improve code quality, streamline workflows, automate tasks
 
 There are currently **5** skills available:
 
-1. [article-capturer](./article-capturer/SKILL.md): Converts pasted BibTeX entries into clean Markdown paper notes and appends them to a index note. It uses a deterministic converter script so output stays consistent with a defined note format.
+1. [browser-use](./browser-use/SKILL.md): Automates browser interactions for navigation, form filling, screenshots, cookies, and data extraction with a persistent CLI-driven browser session.
 2. [es](./es/SKILL.md): Provides a practical workflow for using the Everything CLI on Windows to find files and folders instantly. It standardizes command flags for rich CSV output and supports advanced searches by extension, size, date, attributes, and path.
 3. [ffmpeg-toolset](./ffmpeg-toolset/SKILL.md): A structured guide for audio/video processing with ffmpeg and ffprobe, including conversion, trimming, filtering, subtitles, and stream operations. It emphasizes reliable command patterns, compatibility tips, and troubleshooting references.
 4. [python](./python/SKILL.md): Defines modern Python best practices with strong typing, Python 3.10+ syntax, and clean architecture conventions. It standardizes tooling around `uv`, Ruff-friendly style, async patterns, FastAPI for APIs, and Loguru for logging.
